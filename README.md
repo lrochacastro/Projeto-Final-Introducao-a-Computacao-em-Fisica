@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/0a722dae-d9e3-41a5-aa0f-ad112e37a4fc"/>
 </p>
 
-<h1 align="center"> Projeto Final - Introdução à Computação em Física - Comparação do RMSE (raíz do erro quadrático médio) para diferentes métodos de "fits" na computação: uma aplicação Cosmológica  </h1>
+<h1 align="center"> Comparação do RMSE para diferentes métodos de "fits" na computação: uma aplicação Cosmológica  </h1>
 Projeto final individual realizado como encerramento da disciplina de Introdução à Computação em Física, 2º semestre do curso de Bacharelado em Física pela Universidade Federal de Minas Gerais.
 
 # Índice
